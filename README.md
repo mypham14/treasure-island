@@ -4,7 +4,7 @@ Create a treasure island game using if statement logic
 Go back to main repo of the challenge: [100 Days Of Code](https://github.com/mypham14/100-days-of-code-python/blob/main/README.md)
 
 ## Files
-* day2.py
+* day3.py
 
 ## Technologies
 * Visual Studio Code
